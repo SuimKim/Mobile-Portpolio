@@ -1,15 +1,15 @@
 # 모바일 포트폴리오 사이트 제작
 
+🔗 [바로가기 Click !!](https://grand-duckanoo-55f69f.netlify.app/)
+
+<br>
+
 ## 📷 Preview
 <p align="center">
-    <figure class="third">
-        <img src="./img/p_main.png" width="20%">
-        <img src="./img/p_about.png" width="20%">
-        <img src="./img/p_skills.png" width="20%" >
-        <img src="./img/p_project.png" width="20%">
-    </figure>
+  <img src="./img/p_main.png" width="20%"> <img src="./img/p_about.png" width="20%"> <img src="./img/p_skills.png" width="20%" > <img src="./img/p_project.png" width="20%">
 
-🔗 [바로가기 Click !!](https://grand-duckanoo-55f69f.netlify.app/)
+
+
 </p>
 
 
@@ -52,7 +52,7 @@
 
 ## 🤭 프레임워크 적용 화면
 
-#### 👉🏻 jquery moblie 
+### 👉🏻 jquery moblie 
 <p align="justify">
   <figure class="third">
         <img src="./img/p_main.png" width="40%">
@@ -80,7 +80,7 @@
 
 <br>
 
-#### 👉🏻 Bootstrap
+### 👉🏻 Bootstrap
 <p align="justify">
   <figure class="third">
         <img src="./img/p_about.png" width="40%">
@@ -92,7 +92,7 @@
 
 <br>
 
-#### 👉🏻 Bulma
+### 👉🏻 Bulma
 <p align="justify">
   <figure class="third">
         <img src="./img/p_main.png" width="40%">
@@ -102,7 +102,7 @@
 </p>
 <br>
 
-#### 👉🏻 Pure
+### 👉🏻 Pure
 <p align="justify">
   <figure class="third">
         <img src="./img/p_skills.png" width="40%">
@@ -112,7 +112,7 @@
 </p>
 <br>
 
-#### 👉🏻 Milligram
+### 👉🏻 Milligram
 <p align="justify">
   모든 화면의 HOME 버튼을 밀리그램 버튼 속성을 적용하였습니다.
 </p>
