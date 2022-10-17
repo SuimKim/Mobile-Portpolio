@@ -2,6 +2,7 @@
 
 🔗 [바로가기 Click !!](https://grand-duckanoo-55f69f.netlify.app/)
 
+<<<<<<< HEAD
 <br>
 
 ## 📷 Preview
@@ -9,6 +10,16 @@
   <img src="./img/p_main.png" width="20%"> <img src="./img/p_about.png" width="20%"> <img src="./img/p_skills.png" width="20%" > <img src="./img/p_project.png" width="20%">
 
 
+=======
+## 📷 Preview
+<p align="center">
+    <figure class="fourth">
+        <img src="./img/p_main.png" width="20%">
+        <img src="./img/p_about.png" width="20%">
+        <img src="./img/p_skills.png" width="20%">
+        <img src="./img/p_project.png" width="20%">
+    figure>
+>>>>>>> 012e30cffc78846d785bd1bb5d90eaf460cdf006
 
 </p>
 
@@ -54,10 +65,10 @@
 
 ### 👉🏻 jquery moblie 
 <p align="justify">
-  <figure class="third">
+  <figure class="half">
         <img src="./img/p_main.png" width="40%">
         <img src="./img/p_about.png" width="40%">
-    </figure>
+  figure>
 
 ```
 <div data-role="page">
@@ -82,10 +93,10 @@
 
 ### 👉🏻 Bootstrap
 <p align="justify">
-  <figure class="third">
+  <figure class="half">
         <img src="./img/p_about.png" width="40%">
         <img src="./img/p_project.png" width="40%">
-    </figure>
+  figure>
 
   아코디언 메뉴바를 사용하여 각 콘텐츠를 분류하였습니다.
 </p>
@@ -94,19 +105,15 @@
 
 ### 👉🏻 Bulma
 <p align="justify">
-  <figure class="third">
-        <img src="./img/p_main.png" width="40%">
-    </figure>
-
+  <img src="./img/p_main.png" width="40%">
+  
   메인화면의 Click Here 부분의 각 div를 columns is-mobile로 적용하였습니다.
 </p>
 <br>
 
 ### 👉🏻 Pure
 <p align="justify">
-  <figure class="third">
-        <img src="./img/p_skills.png" width="40%">
-    </figure>
+  <img src="./img/p_skills.png" width="40%">
 
   Skill 카테고리 화면의 표 형식 레이아웃을 사용하였습니다.
 </p>
