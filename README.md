@@ -3,10 +3,10 @@
 ## 📷 Preview
 <p align="center">
     <figure class="third">
-        <img src="./img/p_main.png" width="20%">
-        <img src="./img/p_about.png" width="20%">
-        <img src="./img/p_skills.png" width="20%" >
-        <img src="./img/p_project.png" width="20%">
+        <img src="./img/p_main.png" width="20%" style="float: left;">
+        <img src="./img/p_about.png" width="20%" style="float: left;">
+        <img src="./img/p_skills.png" width="20%" style="float: left;">
+        <img src="./img/p_project.png" width="20%" style="float: left;">
     </figure>
 
 🔗 [바로가기 Click !!](https://grand-duckanoo-55f69f.netlify.app/)
