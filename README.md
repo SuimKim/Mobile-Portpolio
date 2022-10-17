@@ -9,7 +9,7 @@
         <img src="./img/p_about.png" width="20%">
         <img src="./img/p_skills.png" width="20%">
         <img src="./img/p_project.png" width="20%">
-    </figure>
+    figure>
 
 </p>
 
@@ -53,12 +53,12 @@
 
 ## 🤭 프레임워크 적용 화면
 
-#### 👉🏻 jquery moblie 
+### 👉🏻 jquery moblie 
 <p align="justify">
-  <figure class="second">
+  <figure class="half">
         <img src="./img/p_main.png" width="40%">
         <img src="./img/p_about.png" width="40%">
-    </figure>
+  figure>
 
 ```
 <div data-role="page">
@@ -81,19 +81,19 @@
 
 <br>
 
-#### 👉🏻 Bootstrap
+### 👉🏻 Bootstrap
 <p align="justify">
-  <figure class="second">
+  <figure class="half">
         <img src="./img/p_about.png" width="40%">
         <img src="./img/p_project.png" width="40%">
-    </figure>
+  figure>
 
   아코디언 메뉴바를 사용하여 각 콘텐츠를 분류하였습니다.
 </p>
 
 <br>
 
-#### 👉🏻 Bulma
+### 👉🏻 Bulma
 <p align="justify">
   <img src="./img/p_main.png" width="40%">
   
@@ -101,7 +101,7 @@
 </p>
 <br>
 
-#### 👉🏻 Pure
+### 👉🏻 Pure
 <p align="justify">
   <img src="./img/p_skills.png" width="40%">
 
@@ -109,7 +109,7 @@
 </p>
 <br>
 
-#### 👉🏻 Milligram
+### 👉🏻 Milligram
 <p align="justify">
   모든 화면의 HOME 버튼을 밀리그램 버튼 속성을 적용하였습니다.
 </p>
