@@ -6,7 +6,7 @@
 
 ## 📷 Preview
 <p align="center">
-  <img src="./img/p_main.png" width="20%"> <img src="./img/p_about.png" width="20%"> <img src="./img/p_skills.png" width="20%" > <img src="./img/p_project.png" width="20%">
+  <img src="./img/p_main.png" width="17%"> <img src="./img/p_about.png" width="17%"> <img src="./img/p_skills.png" width="17%" > <img src="./img/p_advance.png" width="17%"> <img src="./img/p_project.png" width="17%">
 </p>
 
 <br>
@@ -18,7 +18,8 @@
   
   1. About: 자기소개와 신상정보를 넣었습니다.<br>
   2. Skills: 제가 사용할 수 있는 언어목록입니다.<br>
-  3. Project: 제가 그동안 진행 / 완료한 프로젝트 목록입니다.
+  3. Advance: 저의 성적 향상 그래프입니다.<br>
+  4. Project: 제가 그동안 진행 / 완료한 프로젝트 목록입니다.
 
 </p>
 
@@ -31,6 +32,7 @@
   + **/img**: 웹 페이지와 md 파일에 사용된 이미지 파일이 들어있습니다.
   + **/css**: 웹 페이지에 사용된 css 파일이 들어있습니다.
   + **/js**: 웹 페이지에 사용된 js 파일이 들어있습니다.
+  + **/chart**: 차트를 생성한 html 파일이 들어있습니다. (용도는 아래서 설명)
 </p>
 
 <br>
@@ -40,8 +42,8 @@
 |    HTML    |     CSS    |   vscode   | 
 | :--------: | :--------: | :--------: | 
 
-| Bootstrap5 |  Bulma | Milligram |  Pure  |
-| :--------: | :----: | :-------: | :----: |
+| Bootstrap5 |  Bulma | Milligram |  Pure  |  Apache ECharts  |
+| :--------: | :----: | :-------: | :----: | :--------------: |
 
 <br>
 
@@ -100,6 +102,15 @@
 ### 👉🏻 Milligram
 <p align="justify">
   모든 화면의 HOME 버튼을 밀리그램 버튼 속성을 적용하였습니다.
+</p>
+<br>
+
+### 👉🏻 Apache ECharts
+<p align="justify">
+  <img src="./img/p_chart.png" width="40%"> <img src="./img/p_advance.png" width="40%">
+  
+  About 메뉴의 MBTI 카테고리와 Advance 메뉴의 차트에 사용하였습니다.
+  화면에 직접 넣고 싶었으나 적용되지 않는 오류로 인해 iframe 안에 html 파일을 넣어서 화면에 보이도록 처리했습니다. 추후에 수정할 부분 중 하나입니다.
 </p>
 <br>
 
