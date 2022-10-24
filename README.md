@@ -110,7 +110,7 @@
   <img src="./img/p_chart.png" width="40%"> <img src="./img/p_advance.png" width="40%">
   
   About 메뉴의 MBTI 카테고리와 Advance 메뉴의 차트에 사용하였습니다.<br>
-  화면에 직접 넣고 싶었으나 적용되지 않는 오류로 인해 iframe 안에 html 파일을 넣어서 화면에 보이도록 처리했습니다. 추후에 수정할 부분 중 하나입니다.
+  화면에 직접 넣고 싶었으나 적용되지 않는 오류로 인해 iframe 안에 html 파일을 넣어서 화면에 보이도록 처리했습니다.<br>추후에 수정할 부분 중 하나입니다.
 </p>
 <br>
 
