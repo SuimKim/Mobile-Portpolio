@@ -42,8 +42,8 @@
 |    HTML    |     CSS    |   vscode   | 
 | :--------: | :--------: | :--------: | 
 
-| Bootstrap5 |  Bulma | Milligram |  Pure  |  Apache ECharts  |
-| :--------: | :----: | :-------: | :----: | :--------------: |
+| Bootstrap5 |  Bulma | Milligram |  Pure css  |  Apache ECharts  |
+| :--------: | :----: | :-------: | :--------: | :--------------: |
 
 <br>
 
@@ -91,7 +91,7 @@
 </p>
 <br>
 
-### 👉🏻 Pure
+### 👉🏻 Pure css
 <p align="justify">
   <img src="./img/p_skills.png" width="40%">
 
